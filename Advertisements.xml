@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>images/ad1.png</ImageUrl>
+    <NavigateUrl>http://www.iu.edu</NavigateUrl>
+    <AlternateText>Shirts for sale</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/ad2.png</ImageUrl>
+    <NavigateUrl>http://www.purdue.edu</NavigateUrl>
+    <AlternateText>Shoes for sale</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+</Advertisements>
