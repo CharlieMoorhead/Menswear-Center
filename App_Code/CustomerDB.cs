@@ -22,7 +22,7 @@ public class CustomerDB
 
 	public CustomerDB()
 	{
-        connectionString = WebConfigurationManager.ConnectionStrings["default"].ConnectionString;
+        connectionString = WebConfigurationManager.appSettings["MYSQL_CONNECTION_STRING"];
 	}
 
     public CustomerDB(string connectionString)
