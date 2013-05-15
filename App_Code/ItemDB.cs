@@ -22,7 +22,7 @@ public class ItemDB
 
     public ItemDB()
     {
-        connectionString = WebConfigurationManager.appSettings["MYSQL_CONNECTION_STRING"];
+        connectionString = WebConfigurationManager.AppSettings["MYSQL_CONNECTION_STRING"];
     }
 
     public ItemDB(string connectionString)
